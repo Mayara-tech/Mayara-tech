@@ -1,4 +1,4 @@
-Oie! Eu sou a Mayara Alves 👋
+**Oie! Eu sou a Mayara Alves 👋**
 
 
 Eu amo a natureza e os animais e sou completamente apaixonada pela vida no campo🌱🐕<br /> 
