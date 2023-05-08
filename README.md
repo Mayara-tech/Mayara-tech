@@ -1,5 +1,8 @@
 # Oie! Eu sou a Mayara Alves 👋
 
+<div>
+  <img align="right" height="150" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif"/>
+</div>
 
 Eu amo a natureza e os animais e sou completamente apaixonada pela vida no campo🌱🐕<br /> 
 Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) 💻<br /> 
