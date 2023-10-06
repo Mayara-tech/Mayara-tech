@@ -22,6 +22,15 @@ Gostaria de ter mais tempo para treinar, e sair com amigos e familia :P <br />
 
 amayara939@gmail.com / https://www.linkedin.com/in/mayara-alves-de-oliveira-5a04271a6
 
+## 📈 GitHub Stats
+<br>
+
+<div align="center">
+  <a href="https://github.com/Mayara-tech">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mayara-tech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-tech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+  
 
 ![image](https://user-images.githubusercontent.com/67807684/231025491-894c5a04-820c-4af9-b1d5-2f866c8b203d.png)
 
