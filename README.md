@@ -31,8 +31,9 @@ amayara939@gmail.com / https://www.linkedin.com/in/mayara-alves-de-oliveira-5a04
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-tech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-
-![image](https://user-images.githubusercontent.com/67807684/231025491-894c5a04-820c-4af9-b1d5-2f866c8b203d.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/67807684/231025491-894c5a04-820c-4af9-b1d5-2f866c8b203d.png" alt="Descrição da imagem">
+</div>
 
 # Hi! I'm Mayara Alves 👋<br /> 
 
