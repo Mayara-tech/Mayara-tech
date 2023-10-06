@@ -27,7 +27,7 @@ amayara939@gmail.com / https://www.linkedin.com/in/mayara-alves-de-oliveira-5a04
 
 <div align="center">
   <a href="https://github.com/Mayara-tech">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mayara-tech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mayara-tech&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&PAT_1"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayara-tech&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
