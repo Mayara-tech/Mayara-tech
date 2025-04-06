@@ -6,7 +6,8 @@
 
 Eu amo a natureza e os animais e sou completamente apaixonada pela vida no campo🌱🐕<br /> 
 Sou estudante de Engenharia de Software na Universidade de Brasília (UnB) 💻<br /> 
-
+Formada em Gestão de agronegocio🌱<br /> 
+Pós em engenharia de redes 💻 <br /> 
 
 
 ## O que eu faço
